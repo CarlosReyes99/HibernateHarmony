@@ -1,2 +1,3 @@
 # HibernateHarmony
+Este repositorio es tu lugar de referencia para descubrir el mundo de Hibernate en Java. Explora cómo Hibernate y JPA trabajan en armonía para gestionar bases de datos de manera eficiente. Encuentra valiosos recursos, ejemplos y guías para impulsar tus proyectos de persistencia de datos en Java. Un rincón seguro para aprender y dominar Hibernate.
 This repository is your go-to place to discover the world of Hibernate in Java. Explore how Hibernate and JPA work in harmony to manage databases efficiently. Find valuable resources, examples, and guides to boost your data persistence projects in Java. A safe corner to learn and master Hibernate.
